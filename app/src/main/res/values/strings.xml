@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">便民资讯</string>
+    <string name="pre_btn_desc">向前</string>
+    <string name="finish_btn_desc">结束</string>
+    <string name="section_1">周公解梦</string>
+    <string name="intro_1">解析各类梦境预兆</string>
+    <string name="section_2">火车时刻</string>
+    <string name="intro_2">查询火车时刻表，起始站，终点站</string>
+    <string name="section_3">笑话大全</string>
+    <string name="intro_3">在笑话中寻找到快乐</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
